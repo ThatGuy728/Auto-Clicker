@@ -1,5 +1,6 @@
 javascript:
 
+(function()%7Balert('Made%20by%20ThatGuy728')%3B%7D)()%3B
 var DELAY = 1;
 var autoClickerStyleElement = document.createElement("style");
 autoClickerStyleElement.innerHTML="*{cursor: crosshair !important;}";
