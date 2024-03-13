@@ -6,4 +6,4 @@ Bookmarklet auto clicker
 3. Make a new bookmark
 4. Then paste the raw file into the URL
 
-Now, click the bookmark, and click the target.
+Now, click the bookmark, set an interval, and click the target.
